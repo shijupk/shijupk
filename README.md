@@ -87,7 +87,7 @@ Technologies: C++, Win32, .NET, OpenCV, Intel IPP
 
 ### **Philips Picture Archival and Communication System (PACS)**
 - **Role**: Lead Architect & Developer  
-- **Technologies**: C++11/17, C# .NET Core 8.0, AWS (S3, ECS, RDS), RabbitMQ, Redis, SSE3, AVX  
+- **Technologies**: C++11/17, C# .NET Core 8.0, AWS (S3, ECS, RDS, ALB, NLB), RabbitMQ, Redis, SSE3, AVX  
 - **Highlights**:
   - Led cloud-native migration and optimized distributed microservice architecture.
   - Implemented high-performance streaming solutions and security frameworks for microservices.
