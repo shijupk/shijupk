@@ -10,10 +10,11 @@
 ## Skills & Expertise
 
 - Distributed, Multi-threaded Software for Windows platform.
+- Distributed Systems, Micro services, Cloud Native development, AWS
 - Architecture & Design Patterns (Micro-service, Pub-sub, Active-Object, Strategy, MVVM, and more).
 - Object-Oriented Analysis & Design.
 - Data Structures and Algorithms.
-- C++11, STL, C#, Python, .NET, OpenCV, Intel IPP.
+- C++17, STL, C#, Python, .NET, OpenCV, Intel IPP.
 - Applied Mathematics, Performance Tuning of Algorithms.
 - Machine Learning algorithms and Image Processing.
 - Agile Methodologies, TDD, Unit Testing, Dependency Injection.
