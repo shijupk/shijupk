@@ -1,6 +1,7 @@
 # Shiju P K
 
 📧 [shijupk@gmail.com](mailto:shijupk@gmail.com)  
+📞 +91 9986026950  
 📍 Bangalore, India  
 🔗 [LinkedIn](https://in.linkedin.com/in/shijupk) | [GitHub](https://github.com/shijupk)
 
@@ -8,29 +9,31 @@
 
 ## 👨‍💻 About Me
 
-With over 16 years of experience as a **Senior Software Engineer** specializing in system architecture, technical leadership, and hands-on development, I have consistently delivered high-performance, distributed, multi-threaded software solutions. My core strengths lie in designing robust, scalable systems and applying advanced algorithms to solve complex problems in various domains, including healthcare, image processing, and machine learning.
+Senior Software Engineer with 17+ years of experience in Senior Architect, Technical Lead, and Lead Developer roles. My core expertise spans distributed, multi-threaded software development for both on-premise and cloud platforms. I have led numerous successful architecture transitions and complex software development projects. My strengths include:
 
-I’m passionate about building high-quality, maintainable software and constantly strive to improve processes and code quality through architecture best practices, design patterns, and agile methodologies.
+- Distributed, Multi-threaded Software for Windows platform (on-premise and cloud)
+- Architecture & Design Patterns (Microservices, Pub-Sub, Active-Object, Strategy, MVVM, and more)
+- Object-Oriented Analysis & Design (OOAD)
+- Data Structures and Algorithms
+- Efficient and elegant code in C++11/17, C#, or any other language
+- Applied Mathematics and performance tuning of algorithms
+- Image Processing and Machine Learning algorithm development
+- Advanced level C/C++ programming (multi-threading, multi-processing, instruction sets, parallelization)
+- Unit Testing, Test-Driven Development (TDD), Performance-First, and Agile Methodologies
+
+I am seeking opportunities that would further challenge me as an architect or hard-core developer, offering the "Joy of Creation."
 
 ---
 
 ## 💼 Skills & Expertise
 
-- **Languages**: C++17, C#, Python  
+- **Languages**: C++17, C# (.Net Core), Python 3  
 - **Frameworks & Libraries**: STL, .NET, MFC, Win32, RabbitMQ, Redis, IPP, OpenCV  
-- **Software Design**: Object-Oriented Analysis & Design (OOAD), UML, Design Patterns, Data Structures, Algorithms  
-- **Software Engineering Practices**: Agile, Scrum, Test-Driven Development (TDD), Unit Testing  
+- **Software Design**: OOAD, UML, Design Patterns, Data Structures, Algorithms  
+- **Software Engineering**: Agile, Scrum, Test-Driven Development (TDD), Performance-First  
 - **Tools & IDEs**: Git, TFS, SVN, Visual Studio, Eclipse  
-- **Domains**: Distributed Systems, Healthcare, Image Processing, Computer Vision
-
-### Core Competencies
-
-- Distributed, Multi-threaded Software Development
-- High-Performance Algorithms & Applied Mathematics
-- Software Architecture & Design Patterns (Microservices, Pub/Sub, Strategy, MVVM)
-- Multi-threading, Parallelization, Advanced Instruction Set Programming (SSE3, AVX)
-- Performance Tuning, Code Optimization, and Problem-Solving
-- Test-Driven Development (TDD) and Continuous Integration (CI)
+- **Cloud & On-Premise Platforms**: AWS (EBS, S3, RDS, ECS, Amazon MQ, ALB, NLB, Route53), Windows  
+- **Domains**: Healthcare, Distributed Systems, Applied Mathematics, Image Processing, Computer Vision
 
 ---
 
@@ -44,18 +47,18 @@ I’m passionate about building high-quality, maintainable software and constant
 ## 🚀 Professional Experience
 
 ### **Philips**  
-**Senior Developer / Architect II** | *October 2011 – Present*  
+**Lead Engineer / Senior Architect** | *October 2011 – Present*  
 Bangalore, India
 
-Key Contributions:
-- **Architected and developed** high-availability, scalable messaging infrastructure for Philips Picture Archival and Communication System (PACS).
-- Designed and implemented **security frameworks** for microservices, including Authentication, Authorization (OAuth), HMAC, and DoS prevention.
-- Led the integration of **Single Sign-On (SSO)** using OpenID Connect for PACS and third-party applications.
-- Enhanced proprietary **iSyntax image processing algorithms**, leveraging SSE3 and AVX for optimized performance.
-- Led the implementation of various **image processing algorithms** for mammography and tomography workflows, collaborating with stakeholders to deliver solutions that meet clinical requirements.
-- **Established Continuous Integration (CI) pipelines** and promoted best practices in interface-based programming, dependency injection, and unit testing (achieving 80% code coverage).
+I have spent over 12 years developing distributed, multi-threaded software for the Philips Picture Archival and Communication System (PACS) in hospitals. Some key accomplishments include:
 
-Technologies: C++11, C#, .NET, RabbitMQ, F5 Load Balancer, SSE3, AVX, Windows
+- **Cloud-Native Migration**: Led the architecture and migration of a cloud-native solution, covering cost estimation, performance analysis, and customer engagement. Transitioned from on-premise to a distributed microservice architecture, optimizing performance and scalability.
+- **High-Performance Streaming**: Developed efficient streaming solutions for high-bandwidth data transmission and conducted POC studies for high-performance client viewing using WebAssembly.
+- **Security and SSO**: Implemented security frameworks for microservices, including authentication, authorization (HMAC), DoS prevention, and Single Sign-On (SSO) using OpenID Connect.
+- **Performance Optimization**: Enhanced the proprietary iSyntax algorithm using AVX and SSE3 instruction sets, achieving significant performance improvements.
+- **CI Pipeline & TDD**: Introduced Test-Driven Development (TDD) and established a Continuous Integration (CI) pipeline, achieving 85% code coverage and improving software quality.
+
+Technologies: C++11/17, C#.NET, AWS (EBS, S3, RDS, ECS), RabbitMQ, Redis, F5 Load Balancer, SSE3, AVX, Windows
 
 ---
 
@@ -64,9 +67,8 @@ Technologies: C++11, C#, .NET, RabbitMQ, F5 Load Balancer, SSE3, AVX, Windows
 Bangalore, India
 
 Key Contributions:
-- Architected the **Single Note Inspection System** for DeLaRue, UK, designing and implementing high-performance, multi-threaded image processing modules for print inspection, OCR, camera calibration, and distributed processing.
-- Designed the **Currency Sheet Inspection System** for the Reserve Bank of India, leading the development of modules for print inspection and arbitrary distortion correction using C++, .NET, OpenCV, and Intel IPP.
-- Resolved critical performance issues and contributed to the development of **distributed communication frameworks**.
+- **Single Note Inspection System (DeLaRue, UK)**: Architected and implemented image processing modules for print inspection, OCR, camera calibration, 2D measurements, and distributed processing.
+- **Currency Sheet Inspection System (Reserve Bank of India)**: Designed and implemented modules for print inspection, arbitrary distortion correction, multi-threaded frameworks, and GUI design.
 
 Technologies: C++, Win32, .NET, OpenCV, Intel IPP
 
@@ -81,29 +83,30 @@ Technologies: C++, Win32, .NET, OpenCV, Intel IPP
 
 ---
 
-## 🌟 Featured Projects
+## 🛠 Featured Projects
 
 ### **Philips Picture Archival and Communication System (PACS)**
-- **Role**: Architect & Lead Developer  
+- **Role**: Lead Architect & Developer  
+- **Technologies**: C++11/17, C# .NET Core 8.0, AWS (S3, ECS, RDS), RabbitMQ, Redis, SSE3, AVX  
 - **Highlights**:
-  - Developed a **highly available messaging infrastructure** for distributed systems.
-  - Designed a **security framework** for microservices, enhancing authentication and authorization mechanisms.
-  - Integrated **Single Sign-On** across the PACS ecosystem and third-party applications.
-  - Optimized **iSyntax image processing** using SSE3 and AVX.
+  - Led cloud-native migration and optimized distributed microservice architecture.
+  - Implemented high-performance streaming solutions and security frameworks for microservices.
+  - Enhanced iSyntax performance using advanced instruction sets.
 
 ---
 
 ### **Machine Vision Software**
-- **Role**: Architect & Lead Developer  
+- **Role**: Senior Developer & Tech Lead  
+- **Technologies**: C++, Win32, .NET, OpenCV, Intel IPP  
 - **Highlights**:
-  - Developed the **Single Note Inspection System** for DeLaRue, focusing on multi-threaded image processing.
-  - Designed the **Currency Sheet Inspection System** for the Reserve Bank of India, with advanced image analysis features.
-  - Implemented print inspection, arbitrary distortion correction, and GUI for real-time performance.
+  - Architected high-performance image processing systems for DeLaRue and the Reserve Bank of India.
+  - Delivered solutions for print inspection, OCR, camera calibration, and 2D measurements.
 
 ---
 
 ## 🤝 Let's Connect
 
-I am always open to opportunities where I can contribute as an architect or senior developer and continue to explore new technologies and challenges. My goal is to work on cutting-edge technologies that offer the “Joy of Creation.”
+I am always open to new opportunities where I can contribute as an architect or lead developer and continue exploring cutting-edge technologies. Feel free to reach out!
 
-Feel free to reach out!
+---
+
