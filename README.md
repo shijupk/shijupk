@@ -39,7 +39,7 @@ I am seeking opportunities that would further challenge me as an architect or ha
 
 ## 🔬 Patents & Publications
 
-- **Patent**: [Systems and Methods for Locating Characters on a Document](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.html&r=1&f=G&l=50&s1=20130156288.PGNR.)
+- **Patent**: [Systems and Methods for Locating Characters on a Document](https://patents.google.com/patent/WO2013096270A1/)
 - **Publication**: [Edge-based Template Matching Algorithm](http://www.codeproject.com/KB/graphics/Edge_Based_template_match.aspx)
 
 ---
